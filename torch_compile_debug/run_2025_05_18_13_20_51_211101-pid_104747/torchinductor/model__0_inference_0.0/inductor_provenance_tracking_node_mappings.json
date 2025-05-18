@@ -1,0 +1,1 @@
+{"preToPost": {"mul": ["mul"]}, "postToPre": {"mul": ["mul"]}, "cppCodeToPost": {"triton_poi_fused_mul_0": ["mul"]}, "postToCppCode": {"mul": ["triton_poi_fused_mul_0"]}}
